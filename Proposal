@@ -1,0 +1,320 @@
+
+FIRST Robotics Competition Team
+Sponsors: Jonathan Amory, Anna Gervais and Enyue Li
+
+
+-Members-
+Jack Armstrong, Anthony Ayer, Emma Bennett, Tristan Brezovsky, Dominic Brunner, Frederick Czerwinski, Veronika Davis, Theo Dierks-Brown, Spencer Doughty, Ben Ebersole, Jack Ellingwood, Hali Ferrelli, Riley Gabriel, Aaron Helfrich, Ian Horch, Angel Merrill, Emily Mickool, Gabrielle Misek, Noah Miller, Benjamin Morneault, Colin Murphy, Ruby Peterman, Emmalynn Pierce, Dennis Slobodzian, Joshua Sparrow, Leo Sparta, Abigail Steinberg, Ava Stone, Gabriel Tower, Julia Twomey, Colby Wheaton, Alex Willette, Zander VanBrugh, and Joe Vetterline
+Team Members Bio As Seen In Appendix -C- 
+
+
+
+
+
+
+
+-Abstract-
+FIRST is an international organization with a goal to inspire teens to pursue STEM fields and related subject matter through multiple robotic competitions. The Outliers is a robotics team competing in the FIRST Robotics Competition (FRC), and is based at Baxter Academy. FRC’s program is a rigorous challenge where participants have only six weeks to design, build, and program a robot to complete many different tasks. The team has the opportunity to compete from local to international levels. However, given the uncertainty surrounding COVID-19, plans will most likely change. This fall, the team will focus on implementing a swerve drive system to the current robot as well as integrating field awareness to the programming systems. This will provide a great educational experience for the students and specifically for new members to understand complex systems of the robot. The intention is to use swerve drive and field awareness systems in future years in order to field a more competitive robot. This timeframe will also serve as an opportunity for the team to fundraise. The team aims to raise $10,000 or more, this money will allow the team to build, travel, and compete if there is a 2021 season. If a new challenge is released in January, the team’s six week Build Season (the only time allowed to design and build the robot) will begin. By the end of the build season, the team will have two functioning robots and a knowledgeable, competition ready team. 
+
+-Problem Statement-
+Today, America’s school systems are falling short in their STEM education. Our high schools are not offering the curriculum needed to introduce and prepare students for the STEM jobs. According to a study from College Transitions, 60% of declared college freshmen engineering majors dropout of engineering. Without exposure to more STEM opportunities, students will continue to be unprepared for careers in this field. FRC aims to bridge this gap and give high school students both exposure and experiences working on a STEM project.
+To field a competitive FIRST robotics team requires a cohesive funding plan, a well-thought out approach, and the necessary resources to travel and compete. FIRST is an expensive competition. Entering a district event costs a team $5,000 and additional championship events cost between $4,000 and $5,000 each. Events also require team lodging, transportation, and food.  The components of the robot are also quite expensive.  Robots cost at most $4,000 each (not including the R&D costs to develop and refine new mechanisms and systems). 
+	As top robotics teams around the world field more competitive and complex robots, adapting new technology is critical to remain competitive. The most effective robots are able to translate and rotate simultaneously in all directions, while still maintaining high levels of traction. Robots that are able to accurately calculate field position, have a significant advantage as they can automate many functions, reducing the requirements on human operators. New technologies and systems will need to be implemented to compete against the current generation of top performing robots. 
+Due to COVID-19, the FIRST season will run differently this year. Teams across the country are struggling to adapt to the new covid environment. Because they’re not able to meet in person, there’s no access to work on the robot or use machines which makes collaboration much more difficult.  
+Success at competition is dependent upon a strong team structure as much as the robot. In order for the team to form strategic alliances, the team must identify the strengths and weaknesses of other competitors, determining their skills and abilities. The skills that teams need to succeed in FRC competitions include but are not limited to, communication, organization, and integration.
+
+-Goals and Objectives-
+Goal #1: Field a functioning robot in the 2021 competition year (Unless COVID-19 prevents season from taking place). 
+Test and research possible parts for the 2021 year
+Read through this year’s rules and procedures
+Design a robot to complete the tasks set by this year’s competition
+Build and program the competition robot
+
+Goal #2: Design and build a robot with a swerve drive and develop system with improved field awareness
+Research other successful robots with a swerve drive
+Implement vision system
+Design and build a prototype for testing and making improvements
+Learn how to drive and operate the robot
+
+Goal #3: Teach team members new skills and together grow stronger and more experienced.
+While remote learning takes place, team will meet online every Wednesday from 10:30 to 3:30
+Teach new members what goes into designing and building a FIRST robot through experience and exposure
+Teach returning members new skills in CAD, CAM,  programming, and other STEM areas
+
+Goal #5: Increase fundraising and improve PR. 
+Overhaul the team website
+Increase our social media presence
+Reach out to companies for sponsorships and grants
+
+
+
+
+
+
+-Constraints-
+Building a robot is not easy, and it is made more difficult by more than one hundred pages of rules drafted by FIRST. Many of these rules are constant from year to year, such as the legal air pressure for pneumatic systems and build season timelines to name a few.  However, there are many rules that change year-to-year, such as the size and weight limitations on the robot. Teams will not know the variable rules until Kickoff in January. 
+Time is a major constraint. There are only so many hours in a day to design, build, test, program, and practice driving the robot. However, the biggest constraint this year is working in the covid environment. The team will need to work together to collaborate remotely and practice social distancing protocols when at the practice field. 	
+The Outliers face a challenge regarding experience as well. With this being The Outliers’ sixth season in FRC, the team has just begun to develop a thorough understanding of the complexities involved in the sport. Just as with any school, the team will have new members who have an unknown knowledge and skill base. The Outliers also have only six mentors, while most other teams have 10-30 mentors. 
+
+-Approach-
+	Delegation and communication between the different groups will be required to keep everything on schedule. Throughout the year, the team will be meeting as a whole group and then breaking down the different preparation tasks. See appendix A for information on approach and an example of team Gantt Chart.
+
+-Budget-
+Each year, the team produces a comprehensive budget plan as well as a bill of materials (B.O.M.) for the competition robot. See appendix B for a breakdown of the team’s annual budget and cost of events.
+
+-Resources-
+The team requires a sizable amount of resources from funding to electrical, mechanical and programming tools. See appendix D for a list of resources the team uses throughout the year.
+
+
+
+
+
+-Deliverables-
+Functioning competition robot
+Estimated Cost of $5,000.
+Functioning robot with a swerve drive
+Utilized for continued testing and practice with our design and the game elements.
+Implemented field awareness on robot
+$10,000 raised through grants, donations, and crowdfunding.
+The estimated amount the team will need to build, transport, and participate this year.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+-Appendix A-
+
+Trello, Slack, and Gantt Charts will be used as task scheduling and team communication tools. Once the build season begins the team will hold regular meetings after school. Below is an example of our current Pre-Season Gantt Chart:
+
+
+
+-Appendix B-
+
+The B.O.M. (Bill of Materials) is a detailed list of the parts required to build the robot and their costs that must be submitted to FIRST robotics. Since the specific competition task is not released until January, the B.O.M. for this year cannot be generated until then, but there is an example from a previous year below. There are also many things that are not included in the B.O.M. It doesn’t include tools, any parts that are under $1.00 per individual part, or any spare parts the team may choose to purchase, including the parts for the prototype quality second robot. The B.O.M. also does not include entry fees for competitions, which run $2,000 per district event, $11,000 for the New England regionals and around $17,000 for worlds. Transportation and rooming costs are also a major factor. 
+
+Item
+Price 
+Quantity
+Total
+Robot 
+$2,000
+1
+$2,000
+Additional Building Materials
+$5,000
+1
+$5,000
+Week 0 Event
+$150
+1
+$150
+Overall Entry Fee
+$5,000
+3
+$5,000
+Additional Entry Fee (for third district competition)
+$1,000
+1
+$1,000
+Additional Entry Fee (For New England Regionals)
+$2,000
+1
+$2,000
+Additional Entry Fee (for Worlds)
+$5,000
+1
+$5,000
+
+
+
+
+
+
+$35,000
+
+
+
+
+
+
+$5,400
+
+
+
+
+
+
+
+$700
+
+
+
+
+Approximate Total (without worlds):
+$20,150
+
+
+
+
+Approximate Total (with worlds):
+$61,250
+
+
+
+-Appendix C-
+
+Mentors
+Jonathan Amory:
+Project Sponsor
+He has an MA in Design from Harvard School of Design, a BS in Mechanical Engineering from Trinity College, and an NA in Yacht Design from Landing School. His design experience comes from working as an Advanced Robotics Engineer at Boston Dynamics. 
+
+Anna Gervais:
+Project Sponsor
+Anna is a third year mentor and coordinates logistics and communication for the team. 
+
+Norris Dale:
+Design and Scouting Mentor
+Norris is a retired mechanical engineer who came to The Outliers in their rookie year. He worked with the team on design and scouting. He will gladly be working with the team again this year! 
+
+Ben Bernard
+Programming Mentor
+A four year mentor, with the Outliers from the beginning, Ben has provided code help and his real life experience to our students both in and out of his realm of expertise. He is the lead programming mentor.
+
+Cutter Meeker
+Strategy and Mechanical Mentor
+Cutter is returning for his fourth year with the Outliers, his first as a mentor. Cutter is happy to be returning to the team to assist with designing and building the robot, along with working on strategy and scouting.
+
+Jacob Morneault
+Jacob is currently a student at USM studying mechanical engineering with an honors minor. He graduated from Baxter in 2018 and was a part of the team for four years. While Jacob was here as a student, he was a part of the mechanical team and the drive team.
+
+Students
+
+Anthony Ayer
+Anthony is a freshman at Baxter and this is his first year on the team. He is interested in learning more about the mechanical components of the robot including the use of motors and wires.
+
+Jack Armstrong
+Jack is a sophomore and this is his second year on the team. He is interested in learning more about the electrical components of the robot as well as scouting. Jack joined the team after seeing his older sibling enjoy the team, and is looking for experience in the real-world problems faced by engineers.
+
+Emma Bennett
+Elise is a sophomore at Baxter Academy and this is her first year on the team. She hopes to learn more about the mechanical, electrical, and programming aspects of the robot.
+
+Tristan Brezovsky
+Tristan is a senior and this is his second year on the robotics team. He is interested in CAD and mechanical work on the team. 
+
+Dominic Brunner 
+Dominic is a sophomore and this is his second year on the team. He is interested in learning more about the mechanical and electrical components as it relates to the robot. 
+
+Frederick Czerwinski
+Fred is a senior and this is his second year on the team. He hopes to expand his knowledge in electronics and mechanical engineering. 
+
+Veronika Davis
+Veronika is a freshman and this is her first year on the team. She hopes to learn more about the mechanical components of the robot using CAD. Veronika also hopes to learn more about the management side of the team.
+
+Theo Dierks-Brown
+Theo is a sophomore at Baxter and this is his first year on the robotics team. He hopes to learn more about the mechanical and electrical components of the robot.
+
+Spencer Doughty
+Spencer is a senior at Baxter and this is his fourth year on the team. He is excited to continue expanding his knowledge in the programming and electrical fields with the robots.
+
+Jack Ellingwood
+Jack is a freshman and this is his first year on the team. He is interested in learning more about programming and how to use javascript.
+
+Hali Ferrelli 
+Halli is a freshman and this is her first year on the team. Hali is interested in mechanical engineering and being the driver or operator on the drive team. 
+
+Riley Gabriel
+Riley is a freshman at Baxter and this is his first year on the robotics team. He hopes to learn more about mechanics and how the team fully builds their robots. 
+
+Aaron Helfrich
+Aaron is a freshman at Baxter and this is his first year on the robotics team. He hopes to learn more about the mechanical, electrical and programming components of the robot. 
+
+Ian Horch
+Ian is a sophomore and this is his second year on the team. He’s interested in the mechanical components of the robot and hopes to learn more about the design process.
+
+Angel Merrill
+Angel is a  senior at Baxter and this is his second year on the team. He is interested in the mechanical and electrical components of the robot and hopes to learn more about drive design.
+
+Emily Mickool 
+Emily is a sophomore joining the team for her first year. Emily’s interested in CAD and working on battery management for the robotics team, elaborating on previous systems to improve on the ease of use at competitions. She’s hoping to earn standards in Modeling for CAD and Design Process.
+
+Noah Miller
+Noah is a freshman at Baxter and this is his first year on the team. He is interested in the mechanical and electrical components of the robot.
+
+Gabrielle Misek-McNally 
+Gabrielle is a junior and this is her second year on the team. Currently, she is working on the climber for the robot. She hopes to learn more about mechanics of the robot as well as how to help manage the team.
+
+Ben Morneault
+Ben is a freshman and this is his first year on the team. He hopes to do drive team as well as learn about mechanical and electrical work. Ben joined the team after seeing his brother’s experience.
+
+Anthony Mundy
+Anthony is a freshman and this is his first year on the team. He is Interested in building the robot as well as troubleshooting work. Anthony Joined for opportunities in hands on learning and for the challenge of a team experience. 
+
+Colin Murphy 
+Colin is a sophomore at Baxter and this is his second year on the team. He is interested in the mechanical and electrical components of the robot as well as pit management. He hopes to learn more about machining metal and using the CNC.
+
+Ruby Peterman 
+Ruby is a junior and is with the robotics team for her second year. She is focusing on mechanics and CAD as well as leadership/organizing skills.  She is hoping to acquire standards for CAD, Design Process and Engineering.
+
+Jacob Piechowski
+Jacob is a sophomore who enjoys programming and joined the team to expand his reaches beyond the computer. This is his first year on the team.
+
+Emmalynn Pierce
+M is a sophomore and this is their second year on the team. She is Interested in pit work, learning the mechanics of the robot, and taking on a managerial role on the team. 
+
+Dennis Slobodzian
+Dennis is a senior and this is his third year on the team. He is continuing in the field of programming as lead point person. Dennis is also developing a swerve system for future competition robots. 
+
+Joshua Sparrow
+Joshua is a sophomore at Baxter and this is his second year on the team. He hopes to learn more about the electrical components of the robot.
+
+Lorenzo Sparta
+Lorenzo is a freshman at Baxter and this is his first year on the robotics team. He is interested in learning more about the mechanical and electrical components of the robot as well as the drivetrain.
+
+Abigail Steinberg
+Abigail is a senior and this is her second year on the robotics team. She is continuing her role as team manager and hopes to share her organizational skills with new members of the team. She also hopes to gain more experience in excel and risk analysis. 
+
+Gabriel Tower
+Gabriel is a Sophomore and his second year. This interest lies in programming and management.
+
+Colby Wheaton
+Colby is a freshman and this is his first year on the robotics team. He hopes to learn more about the electrical and programming components of the robot as well as how to use javascript.
+
+Joseph Vetterline
+Joseph is a sophomore at Baxter and this is his second year on the team. He is interested in learning more about mechanical components of the robot as well as developing his CAD and CAM skills.
+
+Alex Wilette
+Alex is a senior at Baxter and this is  his fourth year on the team. He isn't just drawn to one aspect of the team, one could compare him to a Swiss Army Knife as he's up for any job that needs to be done. Alex is excited to mentor new students and enhance his skills this season.
+
+-Appendix D-
+
+Tools (Mechanical). Outliers Robotics will require the use of space in a building. The team currently intends to use Amorys room (#111), as well at the robotics room located off the fablab. The team will also need access to tools such as a drill press and a band saw, which are currently in the Fab lab. They will likely be using the CNC Router once again this year.
+
+Tools (Electrical). The kit of parts includes several of the key electrical components for each year’s competition. The team already possesses several CIM motors, which are used for the drive train, and several batteries. The RoboRio and power distribution board, which are essential elements of the electronics board, are also already in their inventory. Most of their electronics needs are not yet determined, but are written into the budget under the Additional Expenses title.
+
+Tools (Programming). The Programmers for the Outliers team currently require the use of the Java programming language, which their school computers can support. Making use of IntelliJ IDE. The Programming team will also need internet access to use tools such as Sourcetree, Github, Gradle, and WPILib.
+
+Funding. Outliers Robotics has a costly operation, with their current budget estimate for this year of approximately $10,000. The team intends to dedicate a significant amount of time this fall to fundraising through various events and corporate sponsors. This includes but is not limited to “one and dones” yearly sponsors and volunteering for outreach opportunities. 
+
+
