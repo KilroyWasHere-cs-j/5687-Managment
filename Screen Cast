@@ -6,13 +6,11 @@ Year:
 
 In a normal competition year training new team members in their respective sub groups. A part of that is partaking off season events such as Beantown Blitz. These aftermenconded events take place during the months of September and December. Then in January we receive the new competition from FIRST. At which point the team is given six weeks to plan, build, and test a robot capable of completing that year's competition. After this the team will compete in four qualifying competitions, before heading to regionals. 
 This year's competition season still remains up in the air as to whether it happens or if it does happen what it will look like. However it appears that small state run competitions are set to go on of course with the CDC guidelines in full effect.
-A normal competition year would start off with training new students, and off season competitions with the previous year’s robot between September and December. Then starting in January we get the game for the year and have 6 weeks to create a functioning robot and then we compete in week zero and 3 other qualifying competitions. 
 
-
-This year’s competition season has changed due to COVID 19, Most large events will not be happening, however there will be small events within Maine that we will most likely go to. 
 
 Goals:
-The Goals this season are mainly focused on research and development rather than building a competition centric robot. Our main goal is to build a functioning robot. On this robot we are planning to create a Swerve drive train with possible implantation on future robots. The second system that we are planning to utilize is a field awareness and vision system. 
+
+The Goals this season are mainly focused on research and development rather than building a competition centric robot. On this robot we are planning to create a swerve drive train with possible implantation on future robots. The second system that we are planning to utilize is a field awareness and vision system. 
 
 Plans:
 
@@ -22,6 +20,8 @@ A stated before in order to be effective in a competition the team needs to buil
 
 A functioning robot 
 Swerve Drive (What are we using this for?)
+The swerve drive is an extremely maneuverable design that utilizes 4 independently rotating wheels to maneuver around the field. Unlike other designs, such as the mecanum, it is able to use traction wheels, which allows the robot to move on uneven terrain & grants it better pushing power. This drive, however, does have some issues. It is the most complex drive in every aspect (e.g programming, driving), increasing build/repair time & cost. Although it does have better pushing power than the mecanum, it is still fairly weak, and will still lose to a tank drive. This drive would be best suited for an experienced team with abundant time & resources.
+
 Field Awareness is the ability to detect the position of the robot on the field using sensors. Some sensors include gyros, cameras, encoders, and IMUs (inertial measurement units). Knowing field position helps calculate the position of the hood on our shooter and adjust the trajectory of the game elements (power cells). A challenge that arises in creating field awareness is knowing the complex math that is used in the programming. However, the intention of developing this system is for it to be implemented in future year’s competition robots to field a more competitive team.
 
 
@@ -30,5 +30,4 @@ Goodbye:
 Thank you for the pleasure of time. If you have any questions, comments or concerns, please ask.
 
 So what
-
 
